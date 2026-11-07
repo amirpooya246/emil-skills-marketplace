@@ -1,0 +1,14 @@
+
+{
+  "name": "emil-skills-marketplace",
+  "owner": {
+    "name": "amirpooya246"
+  },
+  "plugins": [
+    {
+      "name": "emil-design-skills",
+      "source": "./",
+      "description": "All 15 design and engineering skills by Emil Kowalski"
+    }
+  ]
+}
